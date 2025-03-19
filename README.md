@@ -1,0 +1,1 @@
+This is the code for "Unveiling Tissue Heterogeneity through Genomic Interaction-Encoded Image Representation of RNA Sequencing Data"
