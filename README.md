@@ -1,4 +1,4 @@
-This is the code for "Unveiling Tissue Heterogeneity through Genomic Interaction-Encoded Image Representation of RNA Sequencing Data"
+### "Unveiling Tissue Heterogeneity through Genomic Interaction-Encoded Image Representation of RNA Sequencing Data"
 
 Detailed usage instructions are provided in **tutorial.ipynb**. 
 
