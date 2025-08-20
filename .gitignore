@@ -50,5 +50,4 @@ Thumbs.db
 
 # Project specific
 lightning_logs/
-results/
 scRNAref.h5ad

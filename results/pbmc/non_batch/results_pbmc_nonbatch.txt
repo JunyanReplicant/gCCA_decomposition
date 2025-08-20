@@ -1,0 +1,6 @@
+Patient ID: 0
+Cell proportions correlation with ground truth:
+[0.92970387]
+
+Cell proportions:
+[[0.17304325 0.00253753 0.63199716 0.01058969 0.14463008 0.00561182]]
