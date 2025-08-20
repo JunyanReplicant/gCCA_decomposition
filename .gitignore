@@ -17,7 +17,6 @@ venv/
 env/
 .env/
 .venv/
-*.h5ad
 
 # IDE specific files
 .idea/
@@ -52,3 +51,4 @@ Thumbs.db
 # Project specific
 lightning_logs/
 results/
+scRNAref.h5ad
