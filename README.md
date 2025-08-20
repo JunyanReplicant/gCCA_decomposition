@@ -26,4 +26,4 @@ pip install -r requirements.txt
 
 The tutorial examples in **tutorial.ipynb** corresponds to the Breast cancer data, PBMC.s13 data, and Rosmap data in the paper.
 
-The results are saved in the **/results** folder.
+The results of the tutorial are saved in the **/results** folder.
